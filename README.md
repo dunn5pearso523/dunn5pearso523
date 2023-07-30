@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dunn5pearso523
+- 👀 I’m interested in R. I’m currently learning R.
+- 🌱 Data science student proficient in R. Passionate about transforming raw data into meaningful insights.
